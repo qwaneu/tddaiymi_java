@@ -1,4 +1,4 @@
-# tddaiymi_python
+# tddaiymi_java
 
 This is merely a small java project with one _failing_ tests. 
 
